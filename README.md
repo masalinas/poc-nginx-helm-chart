@@ -37,6 +37,8 @@ kubectl describe services my-nginx
 curl http://<PUBLIC_IP>
 ```
 
+![Nginx Landing](captures/nginx-landing.png "Nginx Landing")
+
 # Uninstall nginx relase
 ```shell
 ```
