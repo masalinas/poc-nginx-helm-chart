@@ -41,5 +41,6 @@ curl http://<PUBLIC_IP>
 
 # Uninstall nginx relase
 ```shell
+helm delete my-nginx
 ```
 
